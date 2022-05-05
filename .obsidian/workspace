@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "ed64a066f01e2db1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dab1de9c296bc32a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d05e3b82f87c91bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fba094128c9d6777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76fc5d82ce0ff178",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "194c6a0062d4fcd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a192564471177c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "880e5d13abadc597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb50ed7cb581a76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dab1de9c296bc32a",
+  "lastOpenFiles": [
+    "151_ai_stop_button_problem_computerphile_youtube.md",
+    "141_intro_to_ai_safety_remastered_youtube.md",
+    "151_what_s_the_use_of_utility_functions_youtube.md",
+    "157_introduction_to_graph_theory_a_computer_science_perspective_youtube.md"
+  ]
+}

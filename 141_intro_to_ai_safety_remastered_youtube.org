@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       c15f9ddd-e04b-4c41-9d15-03ed6a99779d
+:ROAM_REFS: https://www.youtube.com/watch?v=pYXy-A4siMw
+:END:
+#+title:  Intro to AI Safety, Remastered - YouTube
+#+filetags: Artificial_Intelligence AI_Safety Instrumental_Goals Robert_Miles
+
+* AI Safety
+
+What is the most important problem in AI Safety.
+We will, sooner or later build an artificial general intelligence.
+
+* Agents
+
+** Thermostat
+
+| goals                           | actions         |
+| keep temperature at some degree | turn on and off |
+
+** Chess AI
+
+| goals     | actions     |
+| win chess | move pieces |
+
+* Generality
+
+The ability to behave in a wide range of domains
+Humans are currently the most general intelligence
+
+* Misalignment
+
+Coast Runner //
+Picking objectives are hard //
+Tetris Pause Screen //
+
+* Stuart Russel
+
+"A system that is optimizing a function of /n/ variables where the objective depends on a subset of size /k<n/, will often set the remaining unconstrained variables to extreme values. If one of those unconstrained variables is something we care about, the solution found may be /highly undesirable/"
+
+* "Just Turn it off"
+
+An GAI will not let you turn it off, it will fight or deceive
+
+** References
+
+[[id:3346649d-762d-43b1-ba3a-f60be6bcdc71][AI "Stop Button" Problem - Computerphile - YouTube]]
+
+* Instrumental vs Terminal Goals
+
+** Convergent Instrumental Goals
+
+Self Preservation \\
+Goal Preservation \\
+Resource Acquisition \\
+Self Improvement \\
+Artificial General Intelligence is dangerous by default.
+
+* Personal Summary
+
+AI Safety is important because a General Artificial Intelligence is dangerous by default.
+Goals that are threatening will arise if the utility function is not defined properly.
+These goals arise because they are instrumental in helping the GAI accomplish its goal.

@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       3346649d-762d-43b1-ba3a-f60be6bcdc71
+:ROAM_REFS: https://www.youtube.com/watch?v=3TYT1QfdfsM&t=918s
+:END:
+#+title: AI "Stop Button" Problem - Computerphile - YouTube
+#+filetags: Artificial_Intelligence AI_Safety Computerphile_Youtube Robert_Miles Stop_Button_Problem
+
+In most situations, given a utility function, changing utility functions will rate very low on current utility function.
+* Corrigibility
+:PROPERTIES:
+:ID:       bee530fb-e741-469d-9f22-4053e69c3513
+:END:
+The AI is open to getting corrected.
+It understands it's not complete.
+
+* Stop Button
+Machines normally have a red stop button.
+* TODO Tea making bot thought experiment
+
+** Scenario 1
+
+AI in robot wants to make and serve tea
+Programmer has managed to define ontology etc
+
+*** Baby brought to work
+
+It crawls in the way of the robot.
+Fights when the button is going to get pushed
+
+*** Baby gets crushed, you get tea
+
+** Scenario 2
+
+Make the utility function want to hit the button
+
+*** It immediately presses the button and turns itself off
+
+* The stop button will make the AI either want to press it or not want it to be pressed and will manipulate or fight for the preferred scenario
+
+* Subagent stability
+
+Corrigibility is not subagent stable.
+An AI that makes more AIs won't necessarily make it corrigible.
+
+* This is a toy problem
+
+* There are properties that are mathematically defined for AGI
+* Context notes
+
+[[id:00c7e9d1-76cd-4801-883a-11c576b08596][What's the Use of Utility Functions? - YouTube]]
+
+* Personal Summary
+
+AI utility functions would include all factors in the real world, including a stop button.
+By default a stop button would prevent the AI from doing its main goal, so it would not want to allow it.
+Making the stop button give positive utility would make it just want to press the stop itself.
+Both of these designs are incorrigible, meaning the AI is unwilling to learn.
