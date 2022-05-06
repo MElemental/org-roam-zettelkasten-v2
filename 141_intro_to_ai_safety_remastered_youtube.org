@@ -29,9 +29,9 @@ Humans are currently the most general intelligence
 
 * Misalignment
 
-Coast Runner //
-Picking objectives are hard //
-Tetris Pause Screen //
+Coast Runner \break
+Picking objectives are hard \break
+Tetris Pause Screen \break
 
 * Stuart Russel
 
@@ -49,10 +49,10 @@ An GAI will not let you turn it off, it will fight or deceive
 
 ** Convergent Instrumental Goals
 
-Self Preservation \\
-Goal Preservation \\
-Resource Acquisition \\
-Self Improvement \\
+Self Preservation \break
+Goal Preservation \break
+Resource Acquisition \break
+Self Improvement \break
 Artificial General Intelligence is dangerous by default.
 
 * Personal Summary

@@ -3,6 +3,7 @@
 :ROAM_REFS: https://www.youtube.com/watch?v=LFKZLXVO-Dg
 :END:
 #+title:  Introduction to Graph Theory: A Computer Science Perspective - YouTube
+#+startup: latexpreview
 #+filetags: :Mathematics: :Computer_Science: :Graph_Theory: :Reducible_Youtube:
 
 * Definition of A Graph
@@ -90,4 +91,7 @@ Each node gets a list of other nodes it is connected to.
 This is common because it is memory efficient
 
 * Personal Summary
-Graph Theory is a useful tool for modeling many computer science problems. Graphs are edges and vertices (nodes). Its useful for modeling many problems, Some that come to mind are the Directed Acyclical nature of personal identity and git.
+
+Graph Theory is a useful tool for modeling many computer science problems.
+Graphs are edges and vertices (nodes).
+Its useful for modeling many problems, Some that come to mind are the Directed Acyclical nature of personal identity and git.

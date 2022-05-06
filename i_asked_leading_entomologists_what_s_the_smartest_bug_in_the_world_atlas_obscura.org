@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       594f8071-3b24-42e5-8ab6-784ff4169182
+:ROAM_REFS: https://www.atlasobscura.com/articles/i-asked-leading-entomologists-whats-the-smartest-bug-in-the-world
+:END:
+#+title: I Asked Leading Entomologists: 'What’s The Smartest Bug In The World?' - Atlas Obscura
+#+filetags: :Arthropod: :Intelligence: :Insect:
+* Contexts
+
+I was thinking about animal welfare and ethics, and I was curious to know how much suffering an insect knows.
+The search keywords I was using had to do with arthropod intelligence, since they're generally considered low on the intelligence.
+In the article I came across something called the social brain hypothesis, which has a lot of my interests.
+
+* Intelligence
+
+** Defining intelligence
+
+Defining intelligence can be tricky.
+Animals such are Dolphins, Apes, and octopi are considered intelligent because they exhibit behavior that are similar to humans.
+This is a bit chauvinist because there's some kind of superiority assumed by it.
+That certain traits humans express are superior.
+Insect intelligence is not sufficiently studied.
+
+When discussing intelligence, researchers often look for qualities related to problem solving, advanced communications, social skills, adaptability, and memory.
+
+** Insect neuroanatomy
+
+Insect brains are modular.
+Their bodies' contain many sub-brains, and many insects can survive without their central brain if they have one.
+
+** Insects that have a variety of diets tend to exhibit more intelligence
+
+Fleas and ticks specialize in blood, and don't tend to demonstrate intelligent behaviors.
+Bees on the other hand have to evaluate many stimuli in their environment.
+
+** Social Brian Hypothesis
+
+The [[id:ec164ac0-63a4-4fce-aac7-c1221e193b1e][Social Brian Hypothesis]] might explain why social insect also tend to exhibit intelligence.
+A solitary beetle doesn't need to interact with others and flex any intelligence.
+There may be some bias in this however because eusocial insects tend to be the most studied insects around.
+The most intelligent insects tend to be bees ants and cockroaches.
+
+* Examples
+
+** Bees
+
+Bees can recognize and distinguish human faces.
+Bees can count (to 4).
+They are capable of observation, memory and problem solving.
+the bees use a waggle dance that is used for directing other bees to resources.
+
+* Personal Questions
+
+This article seems to talk about social insects, but I feel like solitary spiders are also capable of demonstrating intelligence.
+
+* Personal Summary
+
+Arthropods have different neuroanatomy than humans.
+Insects that have a varied need of resources, and are social tend to exhibit higher levels of intelligence.
