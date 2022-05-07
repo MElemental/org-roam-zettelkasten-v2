@@ -2,6 +2,6 @@
 :ID:       ec164ac0-63a4-4fce-aac7-c1221e193b1e
 :END:
 #+TITLE: Social Brain Hypothesis
-#+FILETAGS::Anthropology: :Cooperation: :Intelligence: :Robin_Dunbar: :Social:
+#+FILETAGS: #Anthropology #Cooperation #Intelligence #Robin_Dunbar #Social
 
 The social brain hypothesis states that intelligence evolves in animals because the need to cooperate with others forces animals to become more intelligent.

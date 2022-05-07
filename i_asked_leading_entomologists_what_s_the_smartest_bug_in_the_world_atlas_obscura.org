@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.atlasobscura.com/articles/i-asked-leading-entomologists-whats-the-smartest-bug-in-the-world
 :END:
 #+title: I Asked Leading Entomologists: 'What’s The Smartest Bug In The World?' - Atlas Obscura
-#+filetags: :Arthropod: :Intelligence: :Insect:
+#+filetags: #Arthropod #Intelligence #Insect
 * Contexts
 
 I was thinking about animal welfare and ethics, and I was curious to know how much suffering an insect knows.

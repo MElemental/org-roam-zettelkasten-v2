@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.youtube.com/watch?v=8AvIErXFoH8
 :END:
 #+title: What's the Use of Utility Functions? - YouTube
-#+filetags: Artificial_Intelligence Robert_Miles Utility_Function World_States
+#+filetags: #Artificial_Intelligence #Robert_Miles #Utility_Function #World_States
 * What is a utility function?
 ** World states
 Utility functions arrange utilities and preferences of agents.

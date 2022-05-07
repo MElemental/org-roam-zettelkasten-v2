@@ -2,7 +2,7 @@
 :ID:       1f2728d2-482f-4e66-98b5-ca7348c55e44
 :END:
 #+TITLE: Zettelkasten
- #+FILETAGS: :Connection: :Zettelkasten: :Niklas_Luhmann: :Research: :Creativity: :Note_Taking:
+ #+FILETAGS: #Connection #Zettelkasten #Niklas_Luhmann #Research #Creativity #Note_Taking
 * Origins
 
 Niklas Luhmann was a German Sociologist that published over 50 books and hundreds of papers in his life.

@@ -1,4 +1,13 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "vimMode": true,
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es"
+  ]
 }

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.youtube.com/watch?v=pYXy-A4siMw
 :END:
 #+title:  Intro to AI Safety, Remastered - YouTube
-#+filetags: Artificial_Intelligence AI_Safety Instrumental_Goals Robert_Miles
+#+filetags: #Artificial_Intelligence #AI_Safety #Instrumental_Goals #Robert_Miles
 
 * AI Safety
 

@@ -3,7 +3,7 @@
 :ROAM_REFS: https://www.youtube.com/watch?v=3TYT1QfdfsM&t=918s
 :END:
 #+title: AI "Stop Button" Problem - Computerphile - YouTube
-#+filetags: Artificial_Intelligence AI_Safety Computerphile_Youtube Robert_Miles Stop_Button_Problem
+#+filetags: #Artificial_Intelligence #AI_Safety #Computerphile_Youtube #Robert_Miles #Stop_Button_Problem
 
 In most situations, given a utility function, changing utility functions will rate very low on current utility function.
 * Corrigibility
