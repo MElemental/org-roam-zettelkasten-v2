@@ -4,8 +4,7 @@
 :END:
 #+title:  Introduction to Graph Theory: A Computer Science Perspective - YouTube
 #+startup: latexpreview
-#+filetags: #Mathematics #Computer_Science #Graph_Theory #Reducible_Youtube
-
+#+filetags: #mathematics #Computer_Science #Graph_Theory #Reducible_Youtube
 * Definition of A Graph
 
 A graph $G = (V, E)$ is a set of vertices $V$ and edges $E$ where each $(u, v)$ is a connection between vertices. $u, v \in V$

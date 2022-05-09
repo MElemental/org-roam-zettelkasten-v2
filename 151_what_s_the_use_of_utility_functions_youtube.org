@@ -4,6 +4,7 @@
 :END:
 #+title: What's the Use of Utility Functions? - YouTube
 #+filetags: #Artificial_Intelligence #Robert_Miles #Utility_Function #World_States
+
 * What is a utility function?
 ** World states
 Utility functions arrange utilities and preferences of agents.
@@ -18,8 +19,8 @@ Preferences are assumed to be transitive
 Intransitive
 *** Preferences with these properties are said to be consistent
 Utility functions assume there are coherent goal directed behavior. Its actually a minimal assumption
-
 * Personal Summary
 Utility functions are a simplified assumption of an intelligent agent's ordered preference of world states.
 Humans may have inconsistent behavior, but that is not the mark of an optimized intelligence.
 The assumption of a utility function is valid.
+-
