@@ -6,4 +6,14 @@ This zettelkasten will be maintained via a git repository
 
 There are 3 types of files in this repo. Structure files, Reference files, and Note files
 
-** 
+** Structure files
+
+Structure files exist to provide entry points into the Zettelkasten. They do not exhaustively list every note, but provide a main hub of topical information. They may include notes about the connection of notes linked to the structure file. If information becomes large enough, it may be separated into its own note file.
+
+** TODO Reference Files
+
+These are files with information from media consumed. This can be videos, articles, or games. The file will most likely follow the structure of the original source. Note files that cover related material should be linked. Perhaps a seperate structure file could be linked to the main structure file.
+
+** Note files
+
+Note files function as synthesized and elaborated notes of a subject. Some notes may be atomized files, or the atomization may occur in the headings of the files, depending on which structure the specific subject material works well with
