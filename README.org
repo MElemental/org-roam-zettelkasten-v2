@@ -1,1 +1,9 @@
-* 
+* Procedure
+
+This zettelkasten will be maintained via a git repository
+
+* Types of files
+
+There are 3 types of files in this repo. Structure files, Reference files, and Note files
+
+** 
