@@ -16,4 +16,25 @@ These are files with information from media consumed. This can be videos, articl
 
 ** Note files
 
-Note files function as synthesized and elaborated notes of a subject. Some notes may be atomized files, or the atomization may occur in the headings of the files, depending on which structure the specific subject material works well with
+Note files function as synthesized and elaborated notes of a subject. Some notes may be atomized files, or the atomization may occur in the headings of the files, depending on which structure the specific subject material works well with.
+
+* Prospective Subjects
+
+** Acoustics
+
+** Audio Perception
+
+** Fractional Calculus
+
+** Linguistics
+
+*** Phonology
+
+Sound Change
+
+*** Semantics
+
+** Signal Processing
+
+** Visual Perception
+
